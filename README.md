@@ -1,7 +1,7 @@
 # Random Users Application
 This application will display ten random users on every refresh by using the https://randomuser.me/ API.
 
-##Technologies Used
+## Technologies Used
 React, Redux, Node, Express
 
 ## Available Scripts
