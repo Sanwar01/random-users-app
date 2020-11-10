@@ -1,3 +1,17 @@
+# Random Users Application
+This application will display ten random users on every refresh by using the https://randomuser.me/ API.
+
+##Technologies Used
+React, Redux, Node, Express
+
+## Available Scripts
+In the project directory, you can run:
+
+### `npm start-server`
+
+Runs the index file from the `build` folder.
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
